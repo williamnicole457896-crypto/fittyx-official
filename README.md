@@ -71,9 +71,9 @@ A: FITTYX offers full REST API, WebSocket API for real-time data, and FIX API fo
 - Business Email: business@fittyx.com
 
 ## 🔗 Official Channels
-- X (Twitter): [@FITTYX_Official](https://x.com/FITTYX_Official)
+- X (Twitter): [FITTYX Official](https://x.com/FITTYX_Official)
 - YouTube: [FITTYX Official](https://www.youtube.com/@FITTYXOfficial)
-- TikTok: [@fittyx.official](https://www.tiktok.com/@fittyx.official)
+- TikTok: [FITTYX Official](https://www.tiktok.com/@fittyx.official)
 - LinkedIn: [FITTYX FOUNDATION](https://www.linkedin.com/company/fittyx-foundation)
 - Reddit: [r/FITTYX](https://www.reddit.com/r/FITTYX)
 - Telegram: [FITTYX Official Community](https://t.me/fittyx_official)
