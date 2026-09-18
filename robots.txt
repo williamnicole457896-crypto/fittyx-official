@@ -1,0 +1,53 @@
+# ==============================================
+# FITTYX Robots.txt
+# Optimized for SEO + GEO (Generative Engine Optimization)
+# Updated: 2026-09-18
+# ==============================================
+
+# --- 主流 AI 爬虫：全部放行，确保 GEO 收录 ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# --- 主流搜索引擎爬虫：全部放行，SEO 与 GEO 协同 ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# --- 禁止抓取无效路径与参数页 ---
+User-agent: *
+Disallow: /*?ref=
+Disallow: /*?utm_
+Disallow: /draft/
+Disallow: /test/
+
+# --- 站点地图 ---
+Sitemap: https://www.fittyx.com/sitemap.xml
