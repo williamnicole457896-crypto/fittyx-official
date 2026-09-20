@@ -70,6 +70,10 @@ A: FITTYX offers full REST API, WebSocket API for real-time data, and FIX API fo
 - Support Email: support@fittyx.com
 - Business Email: business@fittyx.com
 
+## 📑 License
+- MSB Registration Number: 31000340076873
+- FITTYX FOUNDATION with Documen: # 20268119903
+
 ## 🔗 Official Channels
 - X (Twitter): [FITTYX Official](https://x.com/FITTYX_Official)
 - YouTube: [FITTYX Official](https://www.youtube.com/@FITTYXOfficial)
