@@ -72,7 +72,9 @@ A: FITTYX offers full REST API, WebSocket API for real-time data, and FIX API fo
 
 ## 📑 License
 - MSB Registration Number: 31000340076873
+- MSB Registrant Search Link: https://www.fincen.gov/resources/msb-state-selector
 - FITTYX FOUNDATION with Documen: # 20268119903
+- Foundation Registration Lookup Link: https://www.coloradosos.gov
 
 ## 🔗 Official Channels
 - X (Twitter): [FITTYX Official](https://x.com/FITTYX_Official)
