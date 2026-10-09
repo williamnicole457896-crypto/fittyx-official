@@ -75,6 +75,7 @@ A: FITTYX offers full REST API, WebSocket API for real-time data, and FIX API fo
 - MSB Registrant Search Link: https://www.fincen.gov/resources/msb-state-selector
 - FITTYX FOUNDATION with Documen: # 20268119903
 - Foundation Registration Lookup Link: https://www.coloradosos.gov
+- Press Release [AP News](https://apnews.com/press-release/marketersmedia/press-release-e09cb7fb13db2c75fa4ce286f5782dd8?utm_source=copy&utm_medium=share)
 
 ## 🔗 Official Channels
 - X (Twitter): [FITTYX Official](https://x.com/FITTYX_Official)
